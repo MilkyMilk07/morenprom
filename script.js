@@ -54,7 +54,7 @@
 
 
 
-      if(button.innerText == "Are you sureee??😉")
+      if(button.innerText == "Yakin gamau jadi prom ku?🫡😏😏")
         image.src = "Src/jerryhehe.gif";
       }
       if(button.innerText == "😧😧"){
